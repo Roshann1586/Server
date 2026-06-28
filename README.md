@@ -1,2 +1,2 @@
-# Server
-This is the server of the chat application that I am planning to make.
+# ChatApp
+I am trying to make a chat application using multithreading and my basic networking knowledge
